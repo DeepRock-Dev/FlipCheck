@@ -39,3 +39,41 @@ Welcome to the **Multi-feature Dashboard**, an all-in-one platform that integrat
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/multi-feature-dashboard.git
+
+## Usage
+
+Once the dashboard is up and running, use the sidebar for navigation. The main features include:
+
+- **Home**: Provides an overview of the dashboard and its features.
+- **Freshness Index Detection**: Launches the Freshness Index Detection tool, which processes real-time video from the webcam to assess object freshness.
+- **OCR (Optical Character Recognition)**: Runs the OCR tool that scans and extracts text from product images.
+- **Barcode Detection**: Enables real-time barcode detection using your webcam to scan and decode barcodes.
+- **Image-based Object Counting**: Utilizes the YOLO model to count objects in the live video feed.
+
+Each page provides a brief description of the process and runs the respective functionality.
+
+---
+
+## Dataset Information
+
+- The **Image-based Object Counting** feature utilizes the YOLO (You Only Look Once) object detection model, which was trained on a dataset of over 19,000 images to recognize and count various items.
+- For **Freshness Index Detection**, a pre-trained Roboflow model is used to evaluate the freshness of objects based on visual data.
+
+---
+
+## Team
+
+This project was created by **TEAM ROCKS**:
+
+- [**Yash Pathak**](https://www.linkedin.com/in/vindicta07/)
+- [**Tanish Palkar**](https://www.linkedin.com/in/tanish-palkar-5b70492b7/)
+- [**Mangesh Tiwari**](https://www.linkedin.com/in/mangesh-tiwari-3804a8273/)
+- [**Krunal Waghela**](https://www.linkedin.com/in/krunal-waghela-8436ba154/)
+- [**Omkar More**](https://www.linkedin.com/in/omkarmore5/)
+
+---
+
+## License
+
+© 2024 TEAM ROCKS. All Rights Reserved.
+
