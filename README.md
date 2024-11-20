@@ -75,5 +75,5 @@ This project was created by **TEAM ROCKS**:
 
 ## License
 
-© 2024 TEAM ROCKS. All Rights Reserved.
+© 2024 DeepRock-Dev. All Rights Reserved.
 
